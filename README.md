@@ -1,6 +1,6 @@
 # Sistema Web e Mobile de Gestão de Salas, Espaços e Equipamentos Escolares
 
-Projeto Integrador desenvolvido no curso de **Bacharelado em Ciência de Dados da Universidade Virtual do Estado de São Paulo (UNIVESP)**.
+Projeto Integrador desenvolvido nos cursos de **Bacharelado em Ciência de Dados e Engenharia da Computação da Universidade Virtual do Estado de São Paulo (UNIVESP)**.
 
 ## Sobre o projeto
 
